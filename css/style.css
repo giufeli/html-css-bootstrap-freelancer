@@ -7,10 +7,76 @@
     background-color: white;
 }
 
-.vh-6{
-    height: 6vh;
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: rgba(26,188,156,255);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.grey{
+    background-color: rgba(58,84,109,255);
+}
+
+.dark-grey{
+    background-color: rgba(44,62,80,255);
+}
+
+.vh-70{
+    height: 70vh;
+}
+
+.vh-50{
+    height: 50vh;
+}
+
+.vh-45{
+    height: 45vh;
 }
 
 .vh-40{
     height: 40vh;
 }
+
+.vh-20{
+    height: 20vh;
+}
+
+.vh-10{
+    height: 10vh;
+}
+
+.vh-6{
+    height: 6vh;
+}
+
+.h-60{
+    height: 60%;
+}
+
+.h-50{
+    height: 50%;
+}
+
+.h-35{
+    height: 35%;
+}
+
+.h-20{
+    height: 20%;
+}
+
+.h-15{
+    height: 15%;    
+}
+
+.h-10{
+    height: 10%;
+}
+
+
