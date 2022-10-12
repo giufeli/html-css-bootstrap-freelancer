@@ -50,7 +50,54 @@ a:hover{
     color:rgba(26,188,156,255);
 }
 
-.col .hover_set{
-    background-color: rgba(26,188,156,0.8);
-    position: absolute;
+.img-fluid{
+    position: relative;
 }
+
+.col .hover_set{
+    background-color: rgba(26,188,156,0.6);
+    position: absolute;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    font-size: 100px;
+    color: white;
+    
+}
+
+.col:hover .hover_set{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.green_btn:hover{
+    background-color: rgb(107, 204, 107);
+    
+}
+
+.star{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+}
+
+.riga-star-white{
+    width: 120px;
+    height: 3px;
+    background-color: white;
+    border-radius: 2rem;
+}
+
+.riga-star-black{
+    width: 120px;
+    height: 3px;
+    background-color: rgba(44,62,80,255);
+    border-radius: 2rem;
+}
+
+
+
