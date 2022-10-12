@@ -1,82 +1,35 @@
-.red{
-    background-color: red;
-    color: white;
-}
 
-.white{
-    background-color: white;
-}
-
-.blue{
-    background-color: blue;
-}
-
-.green{
-    background-color: rgba(26,188,156,255);
-}
-
-.yellow{
-    background-color: yellow;
-}
-
-.grey{
+.nav-top{
     background-color: rgba(58,84,109,255);
 }
 
-.dark-grey{
-    background-color: rgba(44,62,80,255);
+.header-page{
+    background-color: rgba(26,188,156,255);
 }
 
-.vh-70{
-    height: 70vh;
+.about{
+    background-color: rgba(26,188,156,255);
 }
 
-.vh-50{
-    height: 50vh;
+/* .img-profile{
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+} */
+
+.bl_card{
+    /* height: 150px; */
+    background-color: salmon;
+    border-radius: 0.7rem;
+    overflow: hidden;
 }
 
-.vh-45{
-    height: 45vh;
+.btn-send{
+    background-color: rgb(71, 174, 71);
 }
 
-.vh-40{
-    height: 40vh;
+.form-control{
+    border: 0;
+    border-bottom: 0.5px solid rgb(206, 205, 205);
+    border-radius: 0;
 }
-
-.vh-20{
-    height: 20vh;
-}
-
-.vh-10{
-    height: 10vh;
-}
-
-.vh-6{
-    height: 6vh;
-}
-
-.h-60{
-    height: 60%;
-}
-
-.h-50{
-    height: 50%;
-}
-
-.h-35{
-    height: 35%;
-}
-
-.h-20{
-    height: 20%;
-}
-
-.h-15{
-    height: 15%;    
-}
-
-.h-10{
-    height: 10%;
-}
-
-
